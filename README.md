@@ -3,8 +3,8 @@ Explorando o LINQ (Language Integrated Query) na linguam C#.
 
 #
 
-Aqui temos um arquivo .csv, feito no bloco de notas que contém nome, email e salario de determinados funcinários.
-O desafio do nosso repositório é extrair informações como mostrar o email de pessoas com o salário maior que o informado e
+Aqui temos um arquivo .csv, feito no bloco de notas que contém nome, email e salário de determinados funcinários.
+O desafio do nosso repositório é extrair informações, como: mostrar o email de pessoas com o salário maior que o informado e
 a soma do salário de pessoas que começam com a letra M
 
 
